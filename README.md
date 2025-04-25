@@ -31,13 +31,13 @@ project/
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
-
+```
 2. Install dependencies: 
-
+``` bash
 pip install -r requirements.txt
-
+```
 3. Run the app:
-
+```bash
 streamlit run app.py
 ```
 
